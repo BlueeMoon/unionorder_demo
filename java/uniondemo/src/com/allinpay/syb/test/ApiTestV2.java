@@ -1,10 +1,10 @@
-package com.allinpay.syb.test;
+﻿package com.allinpay.syb.test;
 
 import java.util.Map;
 
 import com.allinpay.syb.lib.SybPayService;
 
-
+vdfgddhbgfnbgfnbgn
 public class ApiTestV2 {
 	public static void main(String[] args) throws Exception{
 		testPay();
