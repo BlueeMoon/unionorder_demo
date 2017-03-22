@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unionorderDemo">
+    <output-path>$PROJECT_DIR$/java/uniondemo/WebContent</output-path>
+    <root id="root" />
+  </artifact>
+</component>
